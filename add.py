@@ -1,4 +1,4 @@
-a = 10
+a = 15
 b = 2
 c = a+b
-print("the output is"+c)
+print (c)
